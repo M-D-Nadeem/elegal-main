@@ -1,0 +1,27 @@
+[
+    {
+        "id": "l1",
+        "imgUrl": "https://shorturl.at/mpyJ5",
+        "name": "Indus Law",
+        "exp": 8,
+        "specialise" : "Family disputes",
+        "fees": 1750
+    },
+    {
+        "id": "l2",
+        "imgUrl": "https://shorturl.at/mpyJ5",
+        "name": "Anand and Anand",
+        "exp": 13,
+        "specialise" : "Criminal cases",
+        "fees": 1500
+    },
+    {
+        "id": "l3",
+        "imgUrl": "https://shorturl.at/mpyJ5",
+        "name": "Abhijit Associates",
+        "exp": 7,
+        "specialise" : "Corporate cases",
+        "fees": 1200
+    }
+
+]

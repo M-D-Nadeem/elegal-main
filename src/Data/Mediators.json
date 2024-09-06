@@ -1,0 +1,23 @@
+[
+  {
+    "id": "a1",
+    "imgUrl": "https://shorturl.at/mpyJ5",
+    "name": "Manish Suresh",
+    "exp": 6,
+    "fees": 750
+  },
+  {
+    "id": "a2",
+    "imgUrl": "https://shorturl.at/mpyJ5",
+    "name": "Divyansh Yaduvanshi",
+    "exp": 5,
+    "fees": 500
+  },
+  {
+    "id": "a3",
+    "imgUrl": "https://shorturl.at/mpyJ5",
+    "name": "Shubham Anand",
+    "exp": 12,
+    "fees": 1200
+  }
+]
